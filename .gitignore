@@ -1,0 +1,8 @@
+.vscode
+*.pyc
+*.csv
+*.xlsx
+*.db
+.env
+dota_science
+RequestApi.ipynb
